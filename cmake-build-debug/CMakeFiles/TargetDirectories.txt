@@ -1,0 +1,3 @@
+/Users/elizwy/CLionProjects/c_learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/elizwy/CLionProjects/c_learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/elizwy/CLionProjects/c_learning/cmake-build-debug/CMakeFiles/c_learning.dir
